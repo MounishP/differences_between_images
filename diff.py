@@ -2,7 +2,7 @@
 """
 Created on Wed Dec 25 23:17:12 2019
 
-@author: Mahesh
+@author: Mounish
 """
 
 from PIL import Image ,ImageChops
